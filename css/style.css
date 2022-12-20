@@ -83,14 +83,14 @@ h4 {
     font-size: 2.5rem;
     font-weight: 600;
     line-height: 1;
-    color: var(--primary-text);
+    color: rgb(100, 81, 53);
 }
 
 h5 {
     font-size: 1.8rem;
     font-weight: 500;
-    line-height: 1;
-    color: var(--primary-text);
+    line-height: 1.4;
+    color: rgb(65, 65, 117);
 }
 
 p {
@@ -187,7 +187,8 @@ section{
 .about .banner_section,
 .products .banner_section,
 .gallery .banner_section,
-.contact .banner_section{
+.contact .banner_section,
+.distributors .banner_section{
     background: url(../images/banner-slide/top\ banner.png);
     background-repeat: no-repeat;
     background-position: center;
