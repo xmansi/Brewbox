@@ -15,3 +15,4 @@ navBar.forEach(function (e) {
     e.addEventListener("click", function () {
         navCollapse.classList.remove("show");
     }
+//
